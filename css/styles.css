@@ -11,6 +11,13 @@ h1{
   
 }
 
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
 h3{
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -72,4 +79,17 @@ body{
 
 .fas:hover{
   color: green;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:  #9370DB;
+  color: #fff;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
 }
