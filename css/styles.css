@@ -93,3 +93,14 @@ body{
   border-radius: 100%;
   margin: 20px;
 }
+
+#press{
+  background-color: #9370DB;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
