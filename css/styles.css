@@ -82,7 +82,7 @@ body{
 }
 
 #testimonials{
-  padding: 7% 15%;
+  
   text-align: center;
   background-color:  #9370DB;
   color: #fff;
@@ -106,5 +106,9 @@ body{
 }
 
 .carousel-item{
-  height: 500px;
+  padding: 7% 15%;
+}
+
+#testimonial-carousel {
+   background-color: #9370DB;
 }
