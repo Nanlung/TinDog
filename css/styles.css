@@ -121,3 +121,12 @@ body{
 .col{
   padding-top: 2%;
 }
+
+#footer{
+  text-align: center;
+}
+
+#cta{
+  text-align: center;
+  padding: 100px;
+}
