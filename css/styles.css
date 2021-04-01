@@ -28,7 +28,7 @@ p{
 }
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 .navbar{
@@ -57,6 +57,7 @@ p{
 #phone{
   transform: rotate(25deg);
   width: 60%;
+  margin-left: 30px;
 }
 
 body{
@@ -65,6 +66,9 @@ body{
 
 #features{
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
 }
 
 .feature-box{
